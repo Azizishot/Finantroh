@@ -42,7 +42,7 @@ Finally just run Setup.bat and wait for it to complete.
 |finantroh was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using finantroh, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using Finantroh, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 
 
