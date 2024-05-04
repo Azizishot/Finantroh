@@ -16,13 +16,13 @@
 </p>
 
 
-# Preview📸 
+#📸 Preview 
 <p align="center">
 <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png">
 </p>
 
 
-### Installation⚡
+### ⚡ Installation
 
 download from releases
 [Here](https://github.com/Azizishot/finantroh/releases/tag/robloxexecutor)
@@ -37,7 +37,7 @@ cd finantroh
 ```
 Finally just run Setup.bat and wait for it to complete.
 
-## Disclaimer❗
+## Disclaimer ❗
 
 |finantroh was made for Educational purposes|
 |-------------------------------------------------|
