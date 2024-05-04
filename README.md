@@ -16,7 +16,7 @@
 </p>
 
 
-#📸 Preview 
+# 📸 Preview 
 <p align="center">
 <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png">
 </p>
