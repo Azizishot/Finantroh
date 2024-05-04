@@ -2,13 +2,13 @@
 <br/>
 <p align="center">
   <a href="https://github.com/azizishot/finantroh">
-    <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png" alt="Logo" width="80" height="80">
+    <img src="https://static.wikia.nocookie.net/robloxcities/images/d/d2/RobloxLogo.png/revision/latest/scale-to-width-down/1024?cb=20230125021936" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"finantroh</h3>
 
   <p align="center">
-   shrek tools
+   Finantroh Executor
     <br/>
     <br/>
     <a href="Discord">finantroh is the best undetected executor! ( byfron bypass ) </a>
