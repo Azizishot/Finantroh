@@ -5,13 +5,13 @@
     <img src="https://static.wikia.nocookie.net/robloxcities/images/d/d2/RobloxLogo.png/revision/latest/scale-to-width-down/1024?cb=20230125021936" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"finantroh</h3>
+  <h3 align="center"Finantroh</h3>
 
   <p align="center">
    Finantroh Executor
     <br/>
     <br/>
-    <a href="Discord">finantroh is the best undetected executor! ( byfron bypass ) </a>
+    <a href="Discord">Finantroh is the best undetected executor! ( byfron bypass ) </a>
   </p>
 </p>
 
@@ -39,7 +39,7 @@ Finally just run Setup.bat and wait for it to complete.
 
 ## Disclaimer ❗
 
-|finantroh was made for Educational purposes|
+|Finantroh was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Finantroh, you agree that you hold responsibility and accountability of any consequences caused by your actions.
