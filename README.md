@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/azizishot/finantroh">
-    <img src="[https://www.freepnglogos.com/uploads/shrek-png/shrek-icon-web-icons-png-0.png](https://static.wikia.nocookie.net/robloxcities/images/d/d2/RobloxLogo.png/revision/latest/scale-to-width-down/1024?cb=20230125021936)" alt="Logo" width="80" height="80">
+    <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"finantroh</h3>
