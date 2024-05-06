@@ -18,7 +18,7 @@
 
 # 📸 Preview 
 <p align="center">
-<a href="Youtube">[YOUTUBE VIDEO](https://www.youtube.com/watch?v=S-diB6VV8ps&t=34s)</a>
+<a href="Youtube">https://www.youtube.com/watch?v=S-diB6VV8ps&t=34s</a>
 <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png"> 
 </p>
 
