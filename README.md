@@ -18,7 +18,7 @@
 
 # 📸 Preview 
 <p align="center">
-<img src="https://www.youtube.com/watch?v=S-diB6VV8ps&t=34s">
+<img src="https://cdn.discordapp.com/attachments/1233436956227276821/1237032569535467560/hMfGTtX.mp4?ex=663a2bdb&is=6638da5b&hm=04e90d0a60085af045ae5d0f65526fdcf8d18ba2ac73555a6286cdff9889deb7&">
 <img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png"> 
 </p>
 
