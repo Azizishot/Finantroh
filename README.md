@@ -18,7 +18,8 @@
 
 # 📸 Preview 
 <p align="center">
-<img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png">
+<img src="https://www.youtube.com/watch?v=S-diB6VV8ps&t=34s">
+<img src="https://azizz.kidnaps-for.fun/ogp/6zuE3By8L.png"> 
 </p>
 
 
