@@ -11,7 +11,7 @@
    Finantroh Executor
     <br/>
     <br/>
-    <a href="Discord">Finantroh is the best undetected executor! ( byfron bypass )  </a>
+    <a href="Discord">Download From Releases! </a>
   </p>
 </p>
 
